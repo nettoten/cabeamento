@@ -1,1 +1,1 @@
-# Site
+# Configurações das máquinas
